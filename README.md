@@ -1,0 +1,1 @@
+I will make a website with recipes, practicing the barebone skills in html I read about, in particular the html-boilerplate, headings, paragraphs and links.
